@@ -1,0 +1,20 @@
+html , body{
+height: 100%;
+font-size: 14px;
+background-color: rgb(31,31,31);
+}
+*{
+ margin: 0;
+    text-align: center;
+}
+h1,h2,p{
+    margin: 0.5rem;
+    color: white;
+
+}
+#logsArea{
+    text-align: left;
+    font-size: 0.9rem;
+    resize: none;
+
+}
